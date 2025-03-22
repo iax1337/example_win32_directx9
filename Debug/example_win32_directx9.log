@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Falke\Desktop\imgui-docking\imgui-docking\examples\example_win32_directx9\main.cpp(53,89): warning C4100: 'nCmdShow': unreferenced formal parameter
+C:\Users\Falke\Desktop\imgui-docking\imgui-docking\examples\example_win32_directx9\main.cpp(53,74): warning C4100: 'lpCmdLine': unreferenced formal parameter
+C:\Users\Falke\Desktop\imgui-docking\imgui-docking\examples\example_win32_directx9\main.cpp(53,53): warning C4100: 'hPrevInstance': unreferenced formal parameter
+C:\Users\Falke\Desktop\imgui-docking\imgui-docking\examples\example_win32_directx9\main.cpp(147,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+C:\Users\Falke\Desktop\imgui-docking\imgui-docking\examples\example_win32_directx9\main.cpp(148,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+  example_win32_directx9.vcxproj -> C:\Users\Falke\Desktop\imgui-docking\imgui-docking\examples\example_win32_directx9\Debug\example_win32_directx9.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
